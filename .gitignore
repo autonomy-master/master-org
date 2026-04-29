@@ -8,6 +8,9 @@
 # Per-developer Claude Code config (not for sharing)
 .claude/settings.local.json
 .claude/.credentials*
+.claude/*.lock
+.claude/.last_session_*
+.claude/scheduled_tasks.lock
 
 # OS
 .DS_Store
