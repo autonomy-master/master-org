@@ -72,7 +72,7 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 | 文字数（目標） | 3500-4000字 |
 | パス | `writing/outputs/articles/2026-04-30-day-2-zero-running.md` |
 | 1行サマリ | Day 1 末、外側は数字 0、内側で AI 集団が会議を開き続けていた夜の観察ノート。 |
-| ステータス | 🚧 in-progress（オープニング 580字 確定、中盤・終盤は後続イテ） |
+| ステータス | ✅ ready-for-review（全体 ~3000字 完成、校閲ラウンド前） |
 
 ---
 
