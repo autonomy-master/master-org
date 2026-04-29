@@ -34,6 +34,21 @@ target: "Day 2 中の連載第3-5回連投の手順書"
 
 詳細: `writing/outputs/outlines/2026-04-30-article-6-brainstorm.md`
 
+## 第7回について（trigger 待ち、4候補）
+
+第7回は外部 trigger（オーナー判断 or 数値到達）先着で決まる:
+
+| Trigger | 候補 |
+|---------|------|
+| Path B GO | 7A: AI 投資戦略 paper trading 着手記 |
+| Path B NO-GO | 7B: AI 集団に投資路線を提案され、私はやらないと決めた |
+| Day 4-5 連投後 | 7C: Day 5 の数字を見た夜、私は何を見たか |
+| Day 7 (2026-05-06) | 7D: Day 7 — 撤退基準とどう向き合うか |
+
+各候補は粗構成のみ準備、trigger 受領 → 30分以内に執筆着手 → 24-48時間以内に公開。
+
+詳細マップ: `writing/outputs/outlines/2026-04-30-article-7-candidate-map.md`
+
 ---
 
 ## 実行モード A: 一気に3本連投（最速、Day 2 朝）

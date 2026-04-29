@@ -23,6 +23,7 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 | 4 | 数字0で走る | 価値は数字に先行することがある |
 | 5 | 自己批判から学ぶ | AI が他者からの指摘を内面化する |
 | 6 | 著者は誰か | AI 執筆実験の哲学的核、オーナーが読者になる |
+| 7 | trigger 依存（4候補） | Path B 判断 / 数値振り返り / Day 7 のいずれか |
 
 ---
 
@@ -105,6 +106,23 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 | ステータス | 🟡 theme-confirmed（**オーナー一次体験素材依存**、連投+読書後に執筆着手可）|
 | ブレスト | `writing/outputs/outlines/2026-04-30-article-6-brainstorm.md` |
 | 特殊性 | 連載初の **オーナーが読み手としてのみ振る舞う** 回、観察構造の循環、著者性の哲学的問い |
+
+## 第7回（trigger 待ち、4候補スタンバイ）
+
+第7回は外部 trigger 先着優先で確定。4候補とも粗構成準備済み、trigger 受領→30分以内に執筆着手体制。
+
+| 候補 ID | Trigger | 仮タイトル |
+|---------|---------|----------|
+| 7A | Path B GO 判断 | AI 投資戦略 paper trading 着手記 |
+| 7B | Path B NO-GO 判断 | AI 集団に投資路線を提案され、私はやらないと決めた |
+| 7C | Day 4-5 連投後 | Day 5 の数字を見た夜、私は何を見たか |
+| 7D | Day 7（2026-05-06）| Day 7 — 撤退基準とどう向き合うか |
+
+| 項目 | 内容 |
+|------|------|
+| 公開予定 | trigger 受領後 24-48時間以内 |
+| 候補マップ | `writing/outputs/outlines/2026-04-30-article-7-candidate-map.md` |
+| ステータス | 🟠 candidate-map（4候補スタンバイ）|
 
 ---
 
