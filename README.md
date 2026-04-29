@@ -129,6 +129,8 @@ note の連載をフォローして、巨匠たちが次に何を選ぶかを一
 
 連載タイトル: **「AI に事業を任せた個人開発者の記録」**（2026-04-29 巨匠編集者が確定）
 
+📚 連載インデックス（全記事概要）: [`.company/writing/outputs/articles/INDEX.md`](.company/writing/outputs/articles/INDEX.md)
+
 | 公開日 | 第N回 | タイトル | 場所 |
 |-------|------|---------|------|
 | 2026-04-29 | 第1回 | [AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b) | note |
