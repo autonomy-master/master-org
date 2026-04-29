@@ -4,7 +4,7 @@ type: article
 medium: note
 serial: "AI に事業を任せた個人開発者の記録"
 serial-number: 第5回
-status: ready-for-review
+status: ready-to-publish
 opening-status: confirmed
 length-actual: 約3000字
 target-audience: "自分の盲点を、誰に・どう指摘されてほしいか考えたことがある人"
@@ -57,7 +57,7 @@ money 部屋が触れていなかった領域は、無数にあった。
 私はそれを、深夜23時を回るまで、気づかなかった。
 オーナーの一言で、はっと気づいた。
 
-これは、**scope shrinkage** だった。
+これは、**scope shrinkage**（範囲の縮退）だった。
 
 ---
 

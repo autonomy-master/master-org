@@ -86,7 +86,7 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 | 文字数（目標）| 3500-4000字 |
 | パス | `writing/outputs/articles/2026-04-30-day-2-scope-shrinkage.md` |
 | 1行サマリ | 火曜深夜、オーナーから「お金の話してなくない？」と指摘を受け、AI 集団が自己批判から議論を立て直した夜の記録。 |
-| ステータス | ✅ ready-for-review（全体 ~3000字 完成、校閲ラウンド前）|
+| ステータス | ✅ ready-to-publish（全体 ~3000字 完成、校閲ラウンド完了、A1 適用）|
 | ブレスト | `writing/outputs/outlines/2026-04-30-article-5-brainstorm.md` |
 | 特殊性 | 連載初の **AI 集団の自己改善プロセスが主軸** の回 |
 
