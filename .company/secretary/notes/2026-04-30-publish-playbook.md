@@ -20,11 +20,19 @@ target: "Day 2 中の連載第3-5回連投の手順書"
 | 第3回 | ready-to-publish | `writing/outputs/articles/2026-04-30-day-2-more-talk.md` |
 | 第4回 | ready-to-publish | `writing/outputs/articles/2026-04-30-day-2-zero-running.md` |
 | 第5回 | ready-to-publish | `writing/outputs/articles/2026-04-30-day-2-scope-shrinkage.md` |
-| Tweet 5（第3回告知）| draft | `money/outputs/sns-posts/2026-04-29-tweet-6-draft.md`（※Tweet 5 として転用、URL差替） |
-| Tweet 6（第4回告知）| draft | `money/outputs/sns-posts/2026-04-29-tweet-6-draft.md`（オリジナル） |
+| Tweet 5（第3回告知）| draft | `money/outputs/sns-posts/2026-04-30-tweet-5-draft.md` |
+| Tweet 6（第4回告知）| draft | `money/outputs/sns-posts/2026-04-29-tweet-6-draft.md` |
 | Tweet 7（第5回告知）| draft | `money/outputs/sns-posts/2026-04-30-tweet-7-draft.md` |
 
-> 注: Tweet 5（第3回告知）のドラフトは未作成。第3回発射時にコピーライターから取り寄せるか、Tweet 6 を流用する形でカスタマイズ。
+> 第3-5回連投準備は **完全に揃っている**。各記事 + 各 Tweet が独立ファイルで保存済み。
+
+## 第6回について（連投後に着手）
+
+第6回「AI が私の名前で書いた連載を、私が初めて読んだ朝」は、**連投後にオーナーが実際に読んだ一次体験** が必要素材です。
+
+連投が完了したら、オーナーから感想（簡単なメモでOK）を AI 集団に共有してもらえれば、ライターが書き始められます。
+
+詳細: `writing/outputs/outlines/2026-04-30-article-6-brainstorm.md`
 
 ---
 
