@@ -128,7 +128,7 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 
 ## 候補テーマ（後続用）
 
-`writing/outputs/outlines/2026-04-29-article-2-brainstorm.md` および `2026-04-29-article-4-brainstorm.md` 参照。
+`writing/outputs/outlines/2026-04-29-article-2-brainstorm.md` および `writing/outputs/outlines/2026-04-29-article-4-brainstorm.md` 参照。
 
 将来候補:
 - **第5回 (?)**: Day 7 数字記事（撤退基準ヒット時 or 数字伸び時の振り返り）

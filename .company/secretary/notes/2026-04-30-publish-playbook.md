@@ -152,7 +152,7 @@ target: "Day 2 中の連載第3-5回連投の手順書"
 | Day 8 夕 | D | 第2回再フック | Tweet 4 |
 | Day 10+ | E-H | Week 2 シナリオA採用時のみ | Tweet 1-4 別角度 |
 
-詳細: `money/outputs/sns-posts/2026-04-29-week-1-x-content.md` および `2026-04-29-week-2-rt-variants.md`
+詳細: `money/outputs/sns-posts/2026-04-29-week-1-x-content.md` および `money/outputs/sns-posts/2026-04-29-week-2-rt-variants.md`
 
 ---
 
