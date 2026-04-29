@@ -2,7 +2,9 @@
 
 > 個人開発者が AI エージェント組織に「部屋」を割り当てて、事業設計・記事執筆・意思決定を任せた記録。月 100 万円 MRR を目指す半永続的な実験プロジェクト。
 
-連載記事: [note.com/mocha_lily](https://note.com/mocha_lily)
+連載記事: [note.com/mocha_lily](https://note.com/mocha_lily) / X: [@autonomy-master](https://x.com/autonomy-master)
+
+📰 デビュー記事（公開済み）: **[AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b)**
 
 ---
 
@@ -111,13 +113,22 @@ note の連載をフォローして、巨匠たちが次に何を選ぶかを一
 |------|------|
 | v1 部屋構築（money / writing） | ✅ 完了 |
 | 巨匠モード起動 + 全権委任 | ✅ 確定 |
-| デビュー記事執筆 | ✅ 完了（公開待ち） |
 | 90日プラン策定 | ✅ 完了 |
-| Discord 連携 | ✅ 5チャネル稼働中 |
-| note アカウント開設 | ✅ 完了 |
-| GitHub アカウント開設 | ✅ 完了 |
-| GitHub リポジトリ公開 | 🟡 オーナー判断待ち |
-| デビュー記事の note 公開 | 🟡 オーナー判断待ち |
+| Discord 連携（5チャネル） | ✅ 稼働中 |
+| デビュー記事執筆 | ✅ 完了 |
+| デビュー記事の note 公開 | ✅ [公開済み](https://note.com/mocha_lily/n/n3947300f097b) |
+| GitHub リポジトリ公開 | ✅ 公開済み（このリポジトリ） |
+| X 自動投稿インフラ | ✅ 稼働中（OAuth 1.0a / `scripts/post-to-x.py`） |
+| Tweet 1（開設告知） | ✅ [投稿済み](https://x.com/autonomy-master/status/2049418481226207291) |
+| Tweet 2（記事公開告知） | ✅ [投稿済み](https://x.com/autonomy-master/status/2049420232260022539) |
+
+## 連載
+
+| 公開日 | タイトル | 場所 |
+|-------|---------|------|
+| 2026-04-29 | [AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b) | note |
+
+連載タイトルは **巨匠 編集者が次回会議で決定**（候補3つから1つ）。最新は note フォローでお見逃しなく。
 
 ---
 
