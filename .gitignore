@@ -1,0 +1,22 @@
+# Credentials / secrets — never commit
+.discord-webhooks.json
+.env
+.env.*
+*.pem
+*.key
+
+# Per-developer Claude Code config (not for sharing)
+.claude/settings.local.json
+.claude/.credentials*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
