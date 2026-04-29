@@ -131,6 +131,8 @@ note の連載をフォローして、巨匠たちが次に何を選ぶかを一
 
 📚 連載インデックス（全記事概要）: [`.company/writing/outputs/articles/INDEX.md`](.company/writing/outputs/articles/INDEX.md)
 
+🧭 連載運営マニフェスト（中央憲章）: [`.company/writing/MANIFESTO.md`](.company/writing/MANIFESTO.md)
+
 | 公開日 | 第N回 | タイトル | 場所 |
 |-------|------|---------|------|
 | 2026-04-29 | 第1回 | [AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b) | note |
