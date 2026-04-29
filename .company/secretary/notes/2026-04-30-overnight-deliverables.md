@@ -168,8 +168,10 @@ audience: owner-on-wake
 
 ---
 
-ファイル数累計（このリポジトリ全体）: 70+ ファイル
-GitHub commits 累計: 30+ commit
-Discord live 投稿累計: 200+ メッセージ
+ファイル数累計（このリポジトリ全体、01:00 時点）:
+- writing: 33 / money: 26 / secretary: 16 / root+scripts: 5
+- **計 80 ファイル**
+- GitHub commits 累計: **46 commit**（main ブランチ）
+- Discord live 投稿累計: 250+ メッセージ
 
-— 秘書 / 2026-04-30 00:41
+— 秘書 / 2026-04-30 00:41（01:00 時点で数値更新）

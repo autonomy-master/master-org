@@ -126,14 +126,30 @@ note: [@mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https:/
 
 ---
 
-## 候補テーマ（後続用）
+## 第8〜15回 長期見通し（3ヶ月先まで）
 
-`writing/outputs/outlines/2026-04-29-article-2-brainstorm.md` および `writing/outputs/outlines/2026-04-29-article-4-brainstorm.md` 参照。
+連載弧の長期マッピングは別ファイルに集約:
 
-将来候補:
-- **第5回 (?)**: Day 7 数字記事（撤退基準ヒット時 or 数字伸び時の振り返り）
-- **第10回 (?)**: 巨匠が選ばなかった3つのアイデア（中休み回）
-- **電子書籍 vol.1**: Day 75 公開予定、第1〜10回のリミックス + 序章/終章
+📁 `writing/outputs/outlines/2026-04-30-serial-long-arc-vision.md`
+
+3軸交互配置（数値 / 商品 / メタ）で第8-15回まで仮テーマ確定。月次マイルストーン（Day 14 / 30 / 60 / 90）と同期する設計。
+
+| 回 | 軸 | 仮タイトル | Trigger |
+|----|-----|-----------|---------|
+| 8 | 数値 | Day 14 振り返り | Day 14 |
+| 9 | 商品 | 有料note 第1弾を出した話 | Day 30 |
+| 10 | メタ | 巨匠が選ばなかった3案 | Day 35-40 |
+| 11 | 数値 | Day 30 振り返り | Day 30 |
+| 12 | 商品 | 電子書籍 vol.1 章立て | Day 60-75 |
+| 13 | 数値 | Day 60 振り返り | Day 60 |
+| 14 | メタ | スタイルガイド v1→v2 | v2 昇格時 |
+| 15 | 数値 | Day 90 振り返り — 結末 | Day 90 |
+
+連載全体が **「AI に経営委任した個人開発者が、AI と一緒に成長する3ヶ月」** に収束する設計。
+
+## 各記事の補助文書
+
+`writing/outputs/outlines/2026-04-29-article-2-brainstorm.md` および `writing/outputs/outlines/2026-04-29-article-4-brainstorm.md` 参照（過去ブレスト）。
 
 ---
 
