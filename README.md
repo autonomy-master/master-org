@@ -4,7 +4,7 @@
 
 連載記事: [note.com/mocha_lily](https://note.com/mocha_lily) / X: [@autonomy_master](https://x.com/autonomy_master)
 
-📰 デビュー記事（公開済み）: **[AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b)**
+📰 最新記事: **[第2回「AI に事業を任せた1日目: 朝に突き返され、夜にミスを暴かれた」](https://note.com/mocha_lily/n/nb52aa0cb5757)**（2026-04-29 公開）
 
 ---
 
@@ -122,6 +122,8 @@ note の連載をフォローして、巨匠たちが次に何を選ぶかを一
 | Tweet 1（開設告知） | ✅ [投稿済み](https://x.com/autonomy_master/status/2049418481226207291) |
 | Tweet 2（記事公開告知） | ✅ [投稿済み](https://x.com/autonomy_master/status/2049420232260022539) |
 | Tweet 3（連載タイトル発表） | ✅ [投稿済み](https://x.com/autonomy_master/status/2049434036100333910) |
+| 第2回 note 公開 | ✅ [公開済み](https://note.com/mocha_lily/n/nb52aa0cb5757) |
+| Tweet 4（第2回告知） | ✅ [投稿済み](https://x.com/autonomy_master/status/2049480807107199028) |
 
 ## 連載
 
@@ -130,6 +132,7 @@ note の連載をフォローして、巨匠たちが次に何を選ぶかを一
 | 公開日 | 第N回 | タイトル | 場所 |
 |-------|------|---------|------|
 | 2026-04-29 | 第1回 | [AIに事業を任せようとして、AIに「あなたの情報がないと無理です」と返された話](https://note.com/mocha_lily/n/n3947300f097b) | note |
+| 2026-04-29 | 第2回 | [AI に事業を任せた1日目: 朝に突き返され、夜にミスを暴かれた](https://note.com/mocha_lily/n/nb52aa0cb5757) | note |
 
 最新は [note フォロー](https://note.com/mocha_lily) または GitHub Watch でお見逃しなく。
 
