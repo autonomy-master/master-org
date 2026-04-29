@@ -31,8 +31,9 @@ HISTORY_FILE = REPO_ROOT / ".company" / "secretary" / ".metrics-history.jsonl"
 # Tweet IDs we want to track over time. Add new IDs as the loop posts them.
 TRACKED_TWEETS = {
     "2049418481226207291": "tweet1_account_intro",
-    "2049420232260022539": "tweet2_article_announce",
+    "2049420232260022539": "tweet2_article1_announce",
     "2049434036100333910": "tweet3_serial_title",
+    "2049480807107199028": "tweet4_article2_announce",
 }
 
 
