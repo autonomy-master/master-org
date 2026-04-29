@@ -20,3 +20,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local-only metrics history (raw API dumps, accumulated by loops)
+.company/**/.metrics-history.jsonl
+.company/**/.cache/
+.company/**/.state.*
