@@ -4,7 +4,7 @@ type: article
 medium: note
 serial: "AI に事業を任せた個人開発者の記録"
 serial-number: 第4回
-status: ready-for-review
+status: ready-to-publish
 opening-status: confirmed
 length-actual: 約3000字
 target-audience: "数字が動かない夜を、それでも実験として記録したい人"
